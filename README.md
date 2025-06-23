@@ -75,10 +75,19 @@ Saved as stylized_output.jpg in the current directory
 
 # sample results
 
+<h3 align="center">Neural Style Transfer Results</h3>
+
+<p align="center"><b>Content Image</b></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60564c41-f7d8-474b-9eea-faf449b7e34a" height="200"/>
-  
-  <img src="https://github.com/user-attachments/assets/65bab105-9b8c-4ccf-bb9e-44a7ed418d45" height="200"/>
-  
-  <img src="https://github.com/user-attachments/assets/14ae2bf6-a6cb-4d32-8311-0098a06b71ff" height="200"/>
+  <img src="https://github.com/user-attachments/assets/60564c41-f7d8-474b-9eea-faf449b7e34a" width="400"/>
+</p>
+
+<p align="center"><b>Style Image</b></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65bab105-9b8c-4ccf-bb9e-44a7ed418d45" width="400"/>
+</p>
+
+<p align="center"><b>Output Image</b></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14ae2bf6-a6cb-4d32-8311-0098a06b71ff" width="400"/>
 </p>
