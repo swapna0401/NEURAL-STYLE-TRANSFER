@@ -73,10 +73,12 @@ Displayed in a window titled "Stylized Output"
 
 Saved as stylized_output.jpg in the current directory
 
-# output
+# sample results
 
-![Image](https://github.com/user-attachments/assets/65bab105-9b8c-4ccf-bb9e-44a7ed418d45)
-
-![Image](https://github.com/user-attachments/assets/60564c41-f7d8-474b-9eea-faf449b7e34a)
-
-![Image](https://github.com/user-attachments/assets/14ae2bf6-a6cb-4d32-8311-0098a06b71ff)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60564c41-f7d8-474b-9eea-faf449b7e34a" height="200"/>
+  
+  <img src="https://github.com/user-attachments/assets/65bab105-9b8c-4ccf-bb9e-44a7ed418d45" height="200"/>
+  
+  <img src="https://github.com/user-attachments/assets/14ae2bf6-a6cb-4d32-8311-0098a06b71ff" height="200"/>
+</p>
