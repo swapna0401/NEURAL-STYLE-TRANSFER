@@ -58,12 +58,25 @@ Also ensure you have your content and style images (e.g., content.jpg and style.
 Place your content and style images in the project directory.
 
 Rename them (or update the paths in the script) as:
+
 content.jpg
+
 style.jpg
-Run the script: python neural_style_transfer.py
+
+Run the script:
+
+python neural_style_transfer.py
 
 The output will be:
 
 Displayed in a window titled "Stylized Output"
 
 Saved as stylized_output.jpg in the current directory
+
+# output
+
+![Image](https://github.com/user-attachments/assets/65bab105-9b8c-4ccf-bb9e-44a7ed418d45)
+
+![Image](https://github.com/user-attachments/assets/60564c41-f7d8-474b-9eea-faf449b7e34a)
+
+![Image](https://github.com/user-attachments/assets/14ae2bf6-a6cb-4d32-8311-0098a06b71ff)
